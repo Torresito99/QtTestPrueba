@@ -1,0 +1,40 @@
+{
+  "tests": [
+    {
+      "test": true,
+      "id": "valid_login",
+      "description": "Prueba con credenciales válidas",
+      "username": "atorresc1",
+      "password": "1234",
+      "expectedMessage": "Login successfully",
+      "expectedColor": "#008000"
+    },
+    {
+      "test": true,
+      "id": "invalid_login",
+      "description": "Prueba con credenciales inválidas",
+      "username": "invalidUser",
+      "password": "wrongPassword",
+      "expectedMessage": "Failed to log",
+      "expectedColor": "#ff0000"
+    },
+    {
+      "test": true,
+      "id": "check_checkbox",
+      "description": "Prueba que se puede hacer check al CheckBox",
+      "checkbox": true
+    },
+    {
+      "test": true,
+      "id": "click_button",
+      "description": "Prueba que se pulsa el botón",
+      "buttonColor": "#ffff00"
+    },
+    {
+      "test": true,
+      "id": "write_text",
+      "description": "Prueba que se puede escribir en el TextArea",
+      "inputText": "Texto de prueba"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+********* Start testing of loginQMLapp *********
+Config: Using QtTest library 6.8.1, Qt 6.8.1 (x86_64-little_endian-lp64 shared (dynamic) release build; by GCC 10.3.1 20210422 (Red Hat 10.3.1-1)), ubuntu 22.04
+QDEBUG : loginQMLapp::LoginTests::initTestCase() qml: ========================================
+QDEBUG : loginQMLapp::LoginTests::initTestCase() qml: Iniciando casos de prueba
+QDEBUG : loginQMLapp::LoginTests::initTestCase() qml: ========================================
+QDEBUG : loginQMLapp::LoginTests::initTestCase() qml: Comprobando disponibilidad de TestData
+PASS   : loginQMLapp::LoginTests::initTestCase()
+QDEBUG : loginQMLapp::LoginTests::test_checkCheckbox() qml: ========================================
+QDEBUG : loginQMLapp::LoginTests::test_checkCheckbox() qml: Hora de ejecución: lunes, 21 de abril de 2025 16:45:43 (hora de verano de Europa central)
+QDEBUG : loginQMLapp::LoginTests::test_checkCheckbox() qml: Ejecutando prueba: test_checkCheckbox
+QDEBUG : loginQMLapp::LoginTests::test_checkCheckbox() qml: ========================================
+PASS   : loginQMLapp::LoginTests::test_checkCheckbox()
+QDEBUG : loginQMLapp::LoginTests::test_clickButton() qml: ========================================
+QDEBUG : loginQMLapp::LoginTests::test_clickButton() qml: Hora de ejecución: lunes, 21 de abril de 2025 16:45:45 (hora de verano de Europa central)
+QDEBUG : loginQMLapp::LoginTests::test_clickButton() qml: Ejecutando prueba: test_clickButton
+QDEBUG : loginQMLapp::LoginTests::test_clickButton() qml: ========================================
+PASS   : loginQMLapp::LoginTests::test_clickButton()
+QDEBUG : loginQMLapp::LoginTests::test_invalidLogin() qml: ========================================
+QDEBUG : loginQMLapp::LoginTests::test_invalidLogin() qml: Hora de ejecución: lunes, 21 de abril de 2025 16:45:47 (hora de verano de Europa central)
+QDEBUG : loginQMLapp::LoginTests::test_invalidLogin() qml: Ejecutando prueba: test_invalidLogin
+QDEBUG : loginQMLapp::LoginTests::test_invalidLogin() qml: ========================================
+PASS   : loginQMLapp::LoginTests::test_invalidLogin()
+QDEBUG : loginQMLapp::LoginTests::test_validLogin() qml: ========================================
+QDEBUG : loginQMLapp::LoginTests::test_validLogin() qml: Hora de ejecución: lunes, 21 de abril de 2025 16:45:51 (hora de verano de Europa central)
+QDEBUG : loginQMLapp::LoginTests::test_validLogin() qml: Ejecutando prueba: test_validLogin
+QDEBUG : loginQMLapp::LoginTests::test_validLogin() qml: ========================================
+PASS   : loginQMLapp::LoginTests::test_validLogin()
+PASS   : loginQMLapp::LoginTests::cleanupTestCase()
+QDEBUG : loginQMLapp::LoginTests::initTestCase() qml: ========================================
+QDEBUG : loginQMLapp::LoginTests::initTestCase() qml: Iniciando casos de prueba
+QDEBUG : loginQMLapp::LoginTests::initTestCase() qml: ========================================
+QDEBUG : loginQMLapp::LoginTests::initTestCase() qml: Comprobando disponibilidad de TestData
+PASS   : loginQMLapp::LoginTests::initTestCase()
+QDEBUG : loginQMLapp::LoginTests::test_checkCheckbox() qml: ========================================
+QDEBUG : loginQMLapp::LoginTests::test_checkCheckbox() qml: Hora de ejecución: lunes, 21 de abril de 2025 16:45:58 (hora de verano de Europa central)
+QDEBUG : loginQMLapp::LoginTests::test_checkCheckbox() qml: Ejecutando prueba: test_checkCheckbox
+QDEBUG : loginQMLapp::LoginTests::test_checkCheckbox() qml: ========================================
+PASS   : loginQMLapp::LoginTests::test_checkCheckbox()
+QDEBUG : loginQMLapp::LoginTests::test_clickButton() qml: ========================================
+QDEBUG : loginQMLapp::LoginTests::test_clickButton() qml: Hora de ejecución: lunes, 21 de abril de 2025 16:46:00 (hora de verano de Europa central)
+QDEBUG : loginQMLapp::LoginTests::test_clickButton() qml: Ejecutando prueba: test_clickButton
+QDEBUG : loginQMLapp::LoginTests::test_clickButton() qml: ========================================
+PASS   : loginQMLapp::LoginTests::test_clickButton()
+QDEBUG : loginQMLapp::LoginTests::test_invalidLogin() qml: ========================================
+QDEBUG : loginQMLapp::LoginTests::test_invalidLogin() qml: Hora de ejecución: lunes, 21 de abril de 2025 16:46:02 (hora de verano de Europa central)
+QDEBUG : loginQMLapp::LoginTests::test_invalidLogin() qml: Ejecutando prueba: test_invalidLogin
+QDEBUG : loginQMLapp::LoginTests::test_invalidLogin() qml: ========================================
+PASS   : loginQMLapp::LoginTests::test_invalidLogin()
+QDEBUG : loginQMLapp::LoginTests::test_validLogin() qml: ========================================
+QDEBUG : loginQMLapp::LoginTests::test_validLogin() qml: Hora de ejecución: lunes, 21 de abril de 2025 16:46:06 (hora de verano de Europa central)
+QDEBUG : loginQMLapp::LoginTests::test_validLogin() qml: Ejecutando prueba: test_validLogin
+QDEBUG : loginQMLapp::LoginTests::test_validLogin() qml: ========================================
+PASS   : loginQMLapp::LoginTests::test_validLogin()
+PASS   : loginQMLapp::LoginTests::cleanupTestCase()
+Totals: 12 passed, 0 failed, 0 skipped, 0 blacklisted, 29485ms
+********* Finished testing of loginQMLapp *********
